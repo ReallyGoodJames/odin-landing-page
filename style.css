@@ -18,9 +18,7 @@ button {
     border: none;
     font-size: 18px;
     font-weight: 700;
-  }
-
-
+}
 
 /* Navigation Bar */
 
@@ -33,43 +31,39 @@ button {
     color: #6c747d;
     padding-right: 200px;
     padding-left: 200px;
-  }
+}
 
-  .logo {
+.logo {
     font-family: 'Roboto', sans-serif;
     font-weight: 700;
     font-size: 48px;
     color: #F9FAF8;
-  }
+}
 
-  .logo p {
+.logo p {
     font-size: 24px;
     color: #F9FAF8;
-  }
+}
 
-  .navbar a {
+.navbar a {
     font-size: 18px;
     color: #E5E7EB;
     text-decoration: none;
-  }
+}
 
-  .navlinks {
+.navlinks {
     display: flex;
     list-style: none;
     justify-content: space-between;
-  }
+}
 
-  .navlinks li {
+.navlinks li {
     padding: 10px;
-  }
+}
   
-
-
-
-
 /* Hero */
 
-  .hero {
+.hero {
     background-color: #1F2937;
     color: #FFFFFF;
     display: flex;
@@ -77,21 +71,21 @@ button {
     align-items: center;
     justify-content: center;
     flex: auto;
-  }
+}
 
-  .hero p {
+.hero p {
     color: #E5E7EB;
-  }
+}
 
-  .hero-content{
+.hero-content{
     display: flex;
     flex-direction: row;
     align-items: center;
     height: 70%;
     padding: 200px;
-  }
+}
 
-  .hero-text {
+.hero-text {
     display: flex;
     flex-direction: column;
     border-radius: 5px;
@@ -100,14 +94,14 @@ button {
     margin: 10px;
     padding-right: 40px;
     align-items: flex-start;
-  }
+}
 
-  .hero-header {
+.hero-header {
     font-size: 48px;
     font-weight: 700;
     margin-bottom: 5px;
     margin-top: 0px;
-  }
+}
 
 .hero-image {
   background-color: #6c747d;
@@ -124,9 +118,9 @@ button {
   height: 200px;
 }
 
-
-
-
+.hero-image p {
+    margin: 0px;
+}
 
 /* Services */
 
@@ -175,10 +169,6 @@ button {
     color: grey;
 }
 
-
-
-
-
 /* Quote */
 
 .panel3 {
@@ -212,9 +202,6 @@ h3 {
     font-weight: 700;
     color: #1F2937;
 }
-
-
-
 
 /* CTA */
 
@@ -267,9 +254,6 @@ h3 {
     border-radius: 10px;
     font-size: 24px;
 }
-
-
-
 
 /* Footer */
 
